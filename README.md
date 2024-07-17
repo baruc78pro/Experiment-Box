@@ -24,3 +24,10 @@ ___________________________________________________________________
 Proyectos android:
 
 #1: https://drive.google.com/drive/folders/193F9jL-Djs9S-54v33w-KuiUXRuWlTIJ?usp=sharing
+
+___________________________________________________________________
+
+*Para el proyecto en Java3D es importante instalar la api y agregarla dentro del IDE que se este usando, en caso de usar Netbeans es importante 
+que en las propiedades en el apartado de VM options es necesario tener: 
+
+-Djava.library.path="C:\Program Files\Java\Java3D\1.5.1\bin"*
