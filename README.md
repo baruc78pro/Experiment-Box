@@ -15,6 +15,6 @@ Creditos:
 
 DIVCODE
 
-Canal:
+Redes sociales:
 
 https://youtu.be/5rl4HzQXLRA?si=zduyxWvoxIIYUDMn
