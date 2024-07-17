@@ -1,5 +1,5 @@
 # Experiment-Box
-Código abierto para estudiantes nuevos o experimentados.
+Proyectos de código abierto en Java
 
 ___________________________________________________________________
 
